@@ -8,7 +8,7 @@ de le rendre Open Source.
 ## Badges
 
 
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/) [![Coverage Status](https://coveralls.io/repos/github/VictorSpitale/coverallsTest/badge.svg?branch=master)](https://coveralls.io/github/VictorSpitale/coverallsTest?branch=master)
 
 ## Installation
 
